@@ -29,14 +29,15 @@ iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
-
-i)	Procedure for Creating New Library.
+i) PROCEDURE FOR CREATING NEW LIBRARY. 
 
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
-ii)	Create Schematic Cell view.
+
+ii)	CREATE SCHEMATIC CELL VIEW .
+
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
 •	Setup the new file form
@@ -55,7 +56,7 @@ ii)	Create Schematic Cell view.
 ![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
 
  
-iii)	Creating the Symbol for schematic Cell view
+iii) CREATING THE SYMBOL FOR SCHEMATIC CELL VIEW.	
 
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
@@ -73,7 +74,7 @@ iii)	Creating the Symbol for schematic Cell view
 
 
 
-iv)	Creating the new test cell view
+iv)	CREATING THE NEW TEST CELL VIEW 
 
 •	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
