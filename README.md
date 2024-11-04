@@ -1,10 +1,12 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+# DESIGN-IMPLEMENTATION-OF-2-BIT-MULTIPLIER-USING-CADENCE-TOOLS
 
-Aim:
+
+## AIM: 
+
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
 
-Tools Required:
+## TOOLS REQUIRED:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
 
@@ -14,8 +16,9 @@ S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIM
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
-•	virtuoso 
-Procedure for Schematic simulation using Cadence
+•	virtuoso
+
+## PROCEDURE FOR SCHEMATIC SIMULATION USING CADENCE:
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
 2.	Close the 2nd window
@@ -28,6 +31,7 @@ v.	Analog simulation by spectre
 
 
 i)	Procedure for Creating New Library.
+
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
@@ -84,7 +88,8 @@ iv)	Creating the new test cell view
 
  
 
-Analog simulation by SPECTRE.
+### ANALOG SIMULATION BY SPECTRE :
+
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -98,7 +103,8 @@ Analog simulation by SPECTRE.
 ![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
 
 
-For Transient Analysis Settings and Output
+### FOR TRANSIENT ANALYSIS SETTINGS AND OUTPUT :
+
 ![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
 
 
@@ -106,5 +112,6 @@ For Transient Analysis Settings and Output
 
   
 
-Results:
+## RESULTS: 
+
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
